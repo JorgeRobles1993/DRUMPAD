@@ -97,9 +97,8 @@ async function BeatBox() {
         // Créer et retourner un nouvelle promesses qui resolve SimulateKey
         return new Promise((resolve, reject) => {
             setTimeout(() => {
-                
                 resolve(SimulateKey(x))
-            },300)
+            },500)
             });
 
 
