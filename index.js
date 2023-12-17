@@ -74,7 +74,7 @@ document.addEventListener("keyup", function (e) {
     }
 });
 
-let btn = document.querySelector("button");
+let btn = document.querySelector(".glow-on-hover");
 
 async function BeatBox() {
     console.log('ppl');
