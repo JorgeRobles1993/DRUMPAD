@@ -105,18 +105,18 @@ async function BeatBox() {
     }
 
     await PlayBeat("a");
-    await PlayBeat("w");
     await PlayBeat("s");
     await PlayBeat("c");
-    await PlayBeat("x");
-    await PlayBeat("z");
-    await PlayBeat("a");
     await PlayBeat("e");
-    await PlayBeat("q");
-    await PlayBeat("s");
-    await PlayBeat("d");
     await PlayBeat("s");
     await PlayBeat("w");
+    await PlayBeat("z");
+    await PlayBeat("x");
+    await PlayBeat("q");
+    await PlayBeat("d");
+    await PlayBeat("a");
+    await PlayBeat("x");
+    await PlayBeat("e");
 
 }
 
